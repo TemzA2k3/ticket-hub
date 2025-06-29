@@ -1,0 +1,36 @@
+{
+  "loaderText": {
+    "featuredEvents": "Loading featured events..."
+  },
+  "header": {
+    "events": "Events",
+    "venues": "Venues",
+    "about": "About",
+    "contact": "Contact",
+    "signUp": "Sign Up",
+    "signIn": "Sign In"
+  },
+  "footer": {
+    "description": "The easiest way to buy tickets for your favorite events.",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "main": {
+    "header": "Find and book tickets for your favorite events",
+    "description": "Discover concerts, sports, theater, and more. Secure your tickets in just a few clicks.",
+    "browseEvents": "Browse Events",
+    "howItWorks": "How It Works"
+  },
+  "searchForm": {
+    "header": "Find Events",
+    "description": "Search for events by keyword, location, or date",
+    "searchPlaceholder": "Search events...",
+    "locationPlaceholder": "Location",
+    "btnLabel": "Search"
+  },
+  "featuredEvents": {
+    "title": "Featured Events"
+  }
+}

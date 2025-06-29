@@ -1,0 +1,37 @@
+{
+  "loaderText": {
+    "featuredEvents": "Pakrovimo teminiai renginiai..."
+  },
+  "header": {
+    "events": "Renginiai",
+    "venues": "Vietos",
+    "about": "Apie mus",
+    "contact": "Kontaktai",
+    "signUp": "Registruotis",
+    "signIn": "Prisijungti"
+  },
+  "footer": {
+    "description": "Lengviausias būdas įsigyti bilietus į mėgstamus renginius.",
+    "termsOfService": "Naudojimo sąlygos",
+    "privacyPolicy": "Privatumo politika",
+    "faq": "DUK",
+    "contact": "Kontaktai"
+  },
+  "main": {
+    "header": "Raskite ir užsirezervuokite bilietus į mėgstamiausius renginius",
+    "description": "Atraskite koncertus, sporto varžybas, teatrą ir dar daugiau. Užsitikrinkite bilietus vos keliais paspaudimais.",
+    "browseEvents": "Renginiai",
+    "howItWorks": "Kaip tai veikia"
+  },
+  "searchForm": {
+    "header": "Raskite renginius",
+    "description": "Ieškokite renginių pagal žodžius, vietą ar datą",
+    "searchPlaceholder": "Ieškoti renginių...",
+    "locationPlaceholder": "Vieta",
+    "btnLabel": "Ieškoti"
+  },
+  "featuredEvents": {
+    "title": "Teminiai Renginiai"
+  }
+
+}
